@@ -7,7 +7,7 @@ const CalButton = ({ number, sendData }) => {
       borderRadius: 40,
       height: 80,
       width: 80,
-      margin: 8,
+      margin: 4,
       justifyContent: 'center',
       alignItems: 'center',
       backgroundColor: 'blue',
